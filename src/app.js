@@ -41,7 +41,7 @@ app.use(morgan('dev'))
 
 /* Routes */
 
-app.use(require('./routes/routes.js'))
+app.use(require('./routes/users.js'))
 
 
 
