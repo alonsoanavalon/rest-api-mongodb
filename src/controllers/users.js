@@ -11,7 +11,7 @@ module.exports = {
             nombre:'alonsso'
         }
 
-        res.json(usuario) */    
+        res.json(usuaro) */    
 
     },
     newUser : async (req,res,next) => {
